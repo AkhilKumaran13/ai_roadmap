@@ -525,6 +525,12 @@ export default function UltimateRoadmap() {
             WebkitBackgroundClip: "text", WebkitTextFillColor: "transparent", backgroundClip: "text",
             letterSpacing: "-1px",
           }}>THE ULTIMATE AI ENGINEERING ROADMAP</h1>
+          <p style={{
+            fontSize: "18px", fontWeight: "700", margin: "0 0 8px",
+            background: "linear-gradient(135deg,#FFFFFF 0%,#00D4FF 45%,#7B61FF 100%)",
+            WebkitBackgroundClip: "text", WebkitTextFillColor: "transparent", backgroundClip: "text",
+            letterSpacing: "-0.5px",
+          }}>Created by Akhil Kumaran</p>
           <p style={{ color: "#4A5568", fontSize: "13px", margin: "0 0 20px" }}>
             54 topics from your Excel · Enriched with subtopics, free resources & projects · 12-month plan · ₹25 LPA+ target
           </p>
@@ -947,6 +953,8 @@ export default function UltimateRoadmap() {
           marginTop: "48px", borderTop: "1px solid #1A2236", paddingTop: "20px",
           textAlign: "center", fontSize: "10px", color: "#1E293B", letterSpacing: "1.5px",
         }}>
+          Created by Akhil Kumarn
+          <br />
           BUILT FROM YOUR EXCEL (54 TOPICS) + RESEARCH ENRICHMENT • ₹25 LPA AI ENGINEER ROADMAP 2026
         </div>
       </div>
